@@ -23,7 +23,7 @@ Terça e quinta às 21:10 na sala E101
 
 ###Avaliação
 
-* MF = (1*SeminarioCurto + 2*Sem1narioLongo + 2*Wikipedia + 2*AtividadeFlosscoach + 4*Contribuicao + 2*AtividadeGame) / 13  
+* MF = (1 x SeminarioCurto + 2 x Sem1narioLongo + 2 x Wikipedia + 2 x AtividadeFlosscoach + 4 x Contribuicao + 2 x       AtividadeGame) / 13  
 
 ####Penalidade por Falta:
 * MF = MF - NF*0,2 (NF = Número de Faltas)
