@@ -1,29 +1,25 @@
-# GitHub da disciplina de Desenvolvimento de Software Livre da UTFPR-CM (2016-2)
+# GitHub of an Open Source Software course (for undergrads at UTFPR-Brazil)
 
-Tentaremos realizar nossa interação via GitHub para que vivenciemos um pouco do ambiente.
+Our interaction will be via GitHub
 
-Vou abrir issues para trabalhos e utilizar wiki para que mantenhamos informações sobre os trabalhos, grupos e andamento das tarefas.
+The instructor will create issues for each deliverable, and will make use of Wikis so we can keep information about assignments, groups and task progress reports.
 
-###Aulas
-Terça e quinta às 21:10 na sala E101
+###Classes
+DAYS OF THE WEEK - TIME
 
-###Datas importantes
-* 20/09 - Não haverá aula --> CBSoft
-* 22/09 - Não haverá aula --> CBSoft
-* 27/09 - Não haverá aula --> SEINFO
-* 29/09 - Não haverá aula --> SEINFO
+###IMPORTANT DATES
+*
+*
+*
 
-###Entregas:
-* 30/08 - Seminários de 20 minutos
-* 01/09 - Seminários de 20 minutos
-* 06/09 - Seminários longos (2)
-* 13/09 - Seminários longos (2)
-* 04/10 - Seminários longos (2)
-* 11/10 - Seminários longos (2)
+###DELIVERABLES
+* Short Seminars (20 minutes)
+* Long Seminars (40 minutes)
+* Contribution to Wikikedia
+* OSS project analysis 
+* FLOSScoach contribution
+* Final OSS Contributions
 
-###Avaliação
+###Grading
 
-* MF = (1 x SeminarioCurto + 2 x Sem1narioLongo + 2 x Wikipedia + 2 x AtividadeFlosscoach + 4 x Contribuicao + 2 x       AtividadeGame) / 13  
-
-####Penalidade por Falta:
-* MF = MF - NF*0,2 (NF = Número de Faltas)
+* Grades = (1 x ShortSeminar + 2 x LongSeminar + 2 x WikipediaContrib + 2 x FLOSScoachContribs + 4 x OSSContrib) / 11
